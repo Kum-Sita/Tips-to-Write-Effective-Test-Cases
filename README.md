@@ -114,7 +114,6 @@ Keep it short and explaining. Mention the other details like priority, status, a
 
 Properly reference the test scenario in order to create an efficient test case. Mention the input data and the anticipated outcome. Describe the situation that results in the error.
 
-<image src="STEP-3-JIRA.avif">
 
 
 
@@ -134,9 +133,13 @@ The document must include all errors as well as information about the environmen
 
 Include the fundamental information, including the Project Name, Prepared By (Tester's Name), Prepared for (Developer's Name), Document Purpose, Application Type, Date, and Version.
 
+<image src="Excel-1.avif">
+
+
 **Step 2: Create a Test Case Matrix**
 
 It will include information about the module and how many test cases there are. Additionally, you must add the status, which can be Pass, Fail, or Not Tested.
+<image src="Excel-2.avif">
 
 
 **Step 3: Make a Detailed Sheet**
@@ -144,3 +147,4 @@ It will include information about the module and how many test cases there are. 
 This sheet will include the Test Case ID, Description, Precondition, Test Data, and Test Steps. Include both the expected and actual outputs as well.
 
 Including two columns: one for QA feedback and one for developer feedback
+<image src="Excel-3.avif">

@@ -50,7 +50,10 @@ Guidelines for creating quality test cases
 
 
 
-**Basic terminologies used while writing a Test Case**
+
+
+
+# Basic terminologies used while writing a Test Case
 
 
 

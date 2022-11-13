@@ -17,9 +17,10 @@ Guidelines for creating quality test cases
 * To achieve 100% test coverage, test cases must be written for all software requirements mentioned in the specification document. This will enable the requirement traceability matrix to pinpoint the functions and conditions that weren't tested.
 
 * Updating test cases in accordance with recently introduced changes in the requirements is always a good practice. It is best to update the SRS for major and minor changes.
-* Take test cases into account based on priorities and risks(high/low). Prioritize test cases
 
 <image src="Traceability Matrix.avif">
+
+* Take test cases into account based on priorities and risks(high/low). Prioritize test cases
 
 * Attachments to Associated Artifacts
 
@@ -49,7 +50,7 @@ Guidelines for creating quality test cases
 
 * Non-functional requirements should be noted
 
-
+<image src="Non-func-req.avif">
 
 
 
@@ -97,6 +98,7 @@ Go to the Home Screen—> Projects—> Create Project
 Project Name:  Choose any project name. 
 
 Template: Choose “Bug Tracking” also called as “Basic Software Development”. Do not keep it default.
+<image src="JIRA TC.avif">
 
 
 
@@ -104,11 +106,15 @@ Template: Choose “Bug Tracking” also called as “Basic Software Development
 
 Keep it short and explaining. Mention the other details like priority, status, assignee, version, etc.
 
+<image src="step2-JIRA.avif">
+
 
 
 **Step 3: Insert Test Data and Mention Expected Result**
 
 Properly reference the test scenario in order to create an efficient test case. Mention the input data and the anticipated outcome. Describe the situation that results in the error.
+
+<image src="step-3-JIRA.avif">
 
 
 
@@ -116,7 +122,7 @@ Properly reference the test scenario in order to create an efficient test case. 
 
 The document must include all errors as well as information about the environments and tool versions that were employed. Additionally, avoid using repeating bugs to prevent confusion in the future.
 
-
+<image src="step-4-JIRA.avif">
 
 
 

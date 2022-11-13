@@ -106,7 +106,7 @@ Template: Choose “Bug Tracking” also called as “Basic Software Development
 
 Keep it short and explaining. Mention the other details like priority, status, assignee, version, etc.
 
-<image src="step2-JIRA.avif">
+<image src="step-2-JIRA.avif">
 
 
 
@@ -123,7 +123,6 @@ Properly reference the test scenario in order to create an efficient test case. 
 The document must include all errors as well as information about the environments and tool versions that were employed. Additionally, avoid using repeating bugs to prevent confusion in the future.
 
 <image src="step-4-JIRA.avif">
-
 
 
 

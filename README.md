@@ -76,3 +76,34 @@ Guidelines for creating quality test cases
 * Actual Result:         This will be filled during the actual execution of the test case.
 
 * Comments:         Any kind of observation will be mentioned here
+
+
+
+
+
+
+
+
+# How to write test cases in Jira?
+
+
+
+**Step 1: Create Project**
+
+Go to the Home Screen—> Projects—> Create Project
+
+Project Name:  Choose any project name. 
+
+Template: Choose “Bug Tracking” also called as “Basic Software Development”. Do not keep it default.
+
+
+
+**Step 2: Add Preconditions**
+
+Keep it short and explaining. Mention the other details like priority, status, assignee, version, etc.
+
+
+
+**Step 3: Insert Test Data and Mention Expected Result**
+
+Properly reference the test scenario in order to create an efficient test case. Mention the input data and the anticipated outcome. Describe the situation that results in the error.

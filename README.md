@@ -114,7 +114,7 @@ Keep it short and explaining. Mention the other details like priority, status, a
 
 Properly reference the test scenario in order to create an efficient test case. Mention the input data and the anticipated outcome. Describe the situation that results in the error.
 
-<image src="STEP-3-JIRA.avif">
+<image src="step-3-JIRA.avif">
 
 
 

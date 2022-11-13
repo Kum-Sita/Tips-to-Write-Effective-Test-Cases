@@ -19,6 +19,8 @@ Guidelines for creating quality test cases
 * Updating test cases in accordance with recently introduced changes in the requirements is always a good practice. It is best to update the SRS for major and minor changes.
 * Take test cases into account based on priorities and risks(high/low). Prioritize test cases
 
+<image src="Traceability Matrix.avif">
+
 * Attachments to Associated Artifacts
 
 * Avoid repetition whenever possible; test automation (relying on automation), which minimizes manual work and improves the product, makes this easier.

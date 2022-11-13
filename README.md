@@ -107,3 +107,33 @@ Keep it short and explaining. Mention the other details like priority, status, a
 **Step 3: Insert Test Data and Mention Expected Result**
 
 Properly reference the test scenario in order to create an efficient test case. Mention the input data and the anticipated outcome. Describe the situation that results in the error.
+
+
+
+**Step 4: Add the attachment**
+
+The document must include all errors as well as information about the environments and tool versions that were employed. Additionally, avoid using repeating bugs to prevent confusion in the future.
+
+
+
+
+
+
+# How to write test cases in Excel?
+
+
+
+**Step 1: Build a Test case Repository**
+
+Include the fundamental information, including the Project Name, Prepared By (Tester's Name), Prepared for (Developer's Name), Document Purpose, Application Type, Date, and Version.
+
+**Step 2: Create a Test Case Matrix**
+
+It will include information about the module and how many test cases there are. Additionally, you must add the status, which can be Pass, Fail, or Not Tested.
+
+
+**Step 3: Make a Detailed Sheet**
+
+This sheet will include the Test Case ID, Description, Precondition, Test Data, and Test Steps. Include both the expected and actual outputs as well.
+
+Including two columns: one for QA feedback and one for developer feedback

@@ -17,4 +17,4 @@ Guidelines for creating quality test cases
 * To achieve 100% test coverage, test cases must be written for all software requirements mentioned in the specification document. This will enable the requirement traceability matrix to pinpoint the functions and conditions that weren't tested.
 
 * Updating test cases in accordance with recently introduced changes in the requirements is always a good practice. It is best to update the SRS for major and minor changes.
-<image src="Traceability Matrix.avif" alt="Traceability Matrix">
+

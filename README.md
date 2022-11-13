@@ -113,7 +113,7 @@ Keep it short and explaining. Mention the other details like priority, status, a
 **Step 3: Insert Test Data and Mention Expected Result**
 
 Properly reference the test scenario in order to create an efficient test case. Mention the input data and the anticipated outcome. Describe the situation that results in the error.
-
+<image src="step-3-JIRA.avif">
 
 
 
